@@ -1,0 +1,170 @@
+[
+  {
+    "name": "about___ar",
+    "path": "/about",
+    "component": "/Users/houssam/Desktop/untitled folder/pages/about/index.vue",
+    "chunkName": "pages/about/index",
+    "_name": "_7410a862"
+  },
+  {
+    "name": "chapterfive___ar",
+    "path": "/chapterfive",
+    "component": "/Users/houssam/Desktop/untitled folder/pages/chapterfive/index.vue",
+    "chunkName": "pages/chapterfive/index",
+    "_name": "_12031d01"
+  },
+  {
+    "name": "chapterfour___ar",
+    "path": "/chapterfour",
+    "component": "/Users/houssam/Desktop/untitled folder/pages/chapterfour/index.vue",
+    "chunkName": "pages/chapterfour/index",
+    "_name": "_3100b275"
+  },
+  {
+    "name": "chapterthree___ar",
+    "path": "/chapterthree",
+    "component": "/Users/houssam/Desktop/untitled folder/pages/chapterthree/index.vue",
+    "chunkName": "pages/chapterthree/index",
+    "_name": "_6425e005"
+  },
+  {
+    "name": "chaptertwo___ar",
+    "path": "/chaptertwo",
+    "component": "/Users/houssam/Desktop/untitled folder/pages/chaptertwo/index.vue",
+    "chunkName": "pages/chaptertwo/index",
+    "_name": "_7ec43e33"
+  },
+  {
+    "name": "contact___ar",
+    "path": "/contact",
+    "component": "/Users/houssam/Desktop/untitled folder/pages/contact/index.vue",
+    "chunkName": "pages/contact/index",
+    "_name": "_2612da3c"
+  },
+  {
+    "name": "index___en",
+    "path": "/en",
+    "component": "/Users/houssam/Desktop/untitled folder/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_054be911"
+  },
+  {
+    "name": "film___ar",
+    "path": "/film",
+    "component": "/Users/houssam/Desktop/untitled folder/pages/film/index.vue",
+    "chunkName": "pages/film/index",
+    "_name": "_b505dd50"
+  },
+  {
+    "name": "team___ar",
+    "path": "/team",
+    "component": "/Users/houssam/Desktop/untitled folder/pages/team/index.vue",
+    "chunkName": "pages/team/index",
+    "_name": "_1e203a1e"
+  },
+  {
+    "name": "trailer___ar",
+    "path": "/trailer",
+    "component": "/Users/houssam/Desktop/untitled folder/pages/trailer/index.vue",
+    "chunkName": "pages/trailer/index",
+    "_name": "_64f9ef96"
+  },
+  {
+    "name": "chapterthree-index copy___ar",
+    "path": "/chapterthree/index%20copy",
+    "component": "/Users/houssam/Desktop/untitled folder/pages/chapterthree/index copy.vue",
+    "chunkName": "pages/chapterthree/index copy",
+    "_name": "_888ca340"
+  },
+  {
+    "name": "chapterthree-index25052022___ar",
+    "path": "/chapterthree/index25052022",
+    "component": "/Users/houssam/Desktop/untitled folder/pages/chapterthree/index25052022.vue",
+    "chunkName": "pages/chapterthree/index25052022",
+    "_name": "_6f00688b"
+  },
+  {
+    "name": "about___en",
+    "path": "/en/about",
+    "component": "/Users/houssam/Desktop/untitled folder/pages/about/index.vue",
+    "chunkName": "pages/about/index",
+    "_name": "_7410a862"
+  },
+  {
+    "name": "chapterfive___en",
+    "path": "/en/chapterfive",
+    "component": "/Users/houssam/Desktop/untitled folder/pages/chapterfive/index.vue",
+    "chunkName": "pages/chapterfive/index",
+    "_name": "_12031d01"
+  },
+  {
+    "name": "chapterfour___en",
+    "path": "/en/chapterfour",
+    "component": "/Users/houssam/Desktop/untitled folder/pages/chapterfour/index.vue",
+    "chunkName": "pages/chapterfour/index",
+    "_name": "_3100b275"
+  },
+  {
+    "name": "chapterthree___en",
+    "path": "/en/chapterthree",
+    "component": "/Users/houssam/Desktop/untitled folder/pages/chapterthree/index.vue",
+    "chunkName": "pages/chapterthree/index",
+    "_name": "_6425e005"
+  },
+  {
+    "name": "chaptertwo___en",
+    "path": "/en/chaptertwo",
+    "component": "/Users/houssam/Desktop/untitled folder/pages/chaptertwo/index.vue",
+    "chunkName": "pages/chaptertwo/index",
+    "_name": "_7ec43e33"
+  },
+  {
+    "name": "contact___en",
+    "path": "/en/contact",
+    "component": "/Users/houssam/Desktop/untitled folder/pages/contact/index.vue",
+    "chunkName": "pages/contact/index",
+    "_name": "_2612da3c"
+  },
+  {
+    "name": "film___en",
+    "path": "/en/film",
+    "component": "/Users/houssam/Desktop/untitled folder/pages/film/index.vue",
+    "chunkName": "pages/film/index",
+    "_name": "_b505dd50"
+  },
+  {
+    "name": "team___en",
+    "path": "/en/team",
+    "component": "/Users/houssam/Desktop/untitled folder/pages/team/index.vue",
+    "chunkName": "pages/team/index",
+    "_name": "_1e203a1e"
+  },
+  {
+    "name": "trailer___en",
+    "path": "/en/trailer",
+    "component": "/Users/houssam/Desktop/untitled folder/pages/trailer/index.vue",
+    "chunkName": "pages/trailer/index",
+    "_name": "_64f9ef96"
+  },
+  {
+    "name": "chapterthree-index copy___en",
+    "path": "/en/chapterthree/index%20copy",
+    "component": "/Users/houssam/Desktop/untitled folder/pages/chapterthree/index copy.vue",
+    "chunkName": "pages/chapterthree/index copy",
+    "_name": "_888ca340"
+  },
+  {
+    "name": "chapterthree-index25052022___en",
+    "path": "/en/chapterthree/index25052022",
+    "component": "/Users/houssam/Desktop/untitled folder/pages/chapterthree/index25052022.vue",
+    "chunkName": "pages/chapterthree/index25052022",
+    "_name": "_6f00688b"
+  },
+  {
+    "name": "index___ar",
+    "path": "/",
+    "component": "/Users/houssam/Desktop/untitled folder/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_054be911"
+  }
+]
